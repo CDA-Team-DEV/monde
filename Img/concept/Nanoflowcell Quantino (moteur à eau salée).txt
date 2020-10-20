@@ -1,0 +1,2 @@
+Nanoflowcell Quantino (moteur à eau salée)
+Il n'est point question d'eau de mer mais plutôt de sels métalliques. Cette technologie novatrice consiste en deux réservoirs contenant un fluide ionique, l’un chargé positivement, l’autre négativement. Lorsqu’ils entrent en contact, les deux génèrent un courant électrique qui alimente le véhicule en énergie grâce à un accumulateur électrochimique et à une pile à combustible.
